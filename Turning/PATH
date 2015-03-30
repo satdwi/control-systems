@@ -1,0 +1,2 @@
+NavStik "/dev/ttyACM0"
+Arduino "test.txt"
